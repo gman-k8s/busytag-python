@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+.venv-win/
+busytag-uploads.json
